@@ -4,9 +4,11 @@ Trabalho prático de tcc
 ![alt text](https://github.com/OSX-RSPlug-a/tcc_faceRec/blob/master/screenshots/Screenshot_2020-06-13_12-57-26.png)
 
 
+
 - Tecnologias utilizadas:
 
       Golang;
+  
   
   
   Dependencias:
@@ -19,8 +21,10 @@ Trabalho prático de tcc
     
     https://gocv.io/
    
+    https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html
   
-           
+  
+  
 - Inicializar o projeto:
 
       go run  runProg.go
