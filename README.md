@@ -17,7 +17,7 @@ Trabalho prático de tcc
     
       https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_profileface.xml
     
-    gocv.io/x/gocv
+    https://gocv.io/
    
   
            
@@ -25,6 +25,6 @@ Trabalho prático de tcc
 
       go run  runProg.go
       
-      go run runProg.go >> yuorLog.log
+      go run runProg.go >> yourlog.log
        
  
