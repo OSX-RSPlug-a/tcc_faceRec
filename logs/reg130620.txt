@@ -1,0 +1,351 @@
+starting camera device: 0
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:10.597971496 -0230 NDT m=+1.793322609
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:11.055054211 -0230 NDT m=+2.250405297
+Found 1 humans
+In the time:  2020-06-13 12:59:11.166940302 -0230 NDT m=+2.362291413
+Found 1 humans
+In the time:  2020-06-13 12:59:11.280401392 -0230 NDT m=+2.475752485
+Found 1 humans
+In the time:  2020-06-13 12:59:11.39309524 -0230 NDT m=+2.588446351
+Found 0 humans
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:11.738629128 -0230 NDT m=+2.933980208
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:11.974994325 -0230 NDT m=+3.170345467
+Found 1 humans
+In the time:  2020-06-13 12:59:12.089015455 -0230 NDT m=+3.284366551
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:12.318880808 -0230 NDT m=+3.514231933
+Found 0 humans
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:12.665278533 -0230 NDT m=+3.860629644
+Found 1 humans
+In the time:  2020-06-13 12:59:12.780563386 -0230 NDT m=+3.975914494
+Found 1 humans
+In the time:  2020-06-13 12:59:12.892518424 -0230 NDT m=+4.087869535
+Found 1 humans
+In the time:  2020-06-13 12:59:13.005629002 -0230 NDT m=+4.200980089
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:13.235451186 -0230 NDT m=+4.430802297
+Found 1 humans
+In the time:  2020-06-13 12:59:13.34997072 -0230 NDT m=+4.545321810
+Found 1 humans
+In the time:  2020-06-13 12:59:13.47421303 -0230 NDT m=+4.669564141
+Found 1 humans
+In the time:  2020-06-13 12:59:13.590460494 -0230 NDT m=+4.785811566
+Found 1 humans
+In the time:  2020-06-13 12:59:13.70055567 -0230 NDT m=+4.895906795
+Found 1 humans
+In the time:  2020-06-13 12:59:13.812087908 -0230 NDT m=+5.007438995
+Found 1 humans
+In the time:  2020-06-13 12:59:13.924370237 -0230 NDT m=+5.119721325
+Found 1 humans
+In the time:  2020-06-13 12:59:14.048363999 -0230 NDT m=+5.243715144
+Found 1 humans
+In the time:  2020-06-13 12:59:14.166324346 -0230 NDT m=+5.361675435
+Found 1 humans
+In the time:  2020-06-13 12:59:14.283021931 -0230 NDT m=+5.478373019
+Found 0 humans
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:14.629991908 -0230 NDT m=+5.825343019
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:14.864501171 -0230 NDT m=+6.059852280
+Found 1 humans
+In the time:  2020-06-13 12:59:14.985821558 -0230 NDT m=+6.181172645
+Found 1 humans
+In the time:  2020-06-13 12:59:15.105500474 -0230 NDT m=+6.300851616
+Found 1 humans
+In the time:  2020-06-13 12:59:15.21965244 -0230 NDT m=+6.415003567
+Found 1 humans
+In the time:  2020-06-13 12:59:15.333827585 -0230 NDT m=+6.529178732
+Found 1 humans
+In the time:  2020-06-13 12:59:15.445140518 -0230 NDT m=+6.640491632
+Found 1 humans
+In the time:  2020-06-13 12:59:15.562335038 -0230 NDT m=+6.757686151
+Found 2 humans
+In the time:  2020-06-13 12:59:15.677157876 -0230 NDT m=+6.872508992
+In the time:  2020-06-13 12:59:15.677393738 -0230 NDT m=+6.872744816
+Found 1 humans
+In the time:  2020-06-13 12:59:15.794863566 -0230 NDT m=+6.990214703
+Found 1 humans
+In the time:  2020-06-13 12:59:15.911641424 -0230 NDT m=+7.106992565
+Found 2 humans
+In the time:  2020-06-13 12:59:16.025878766 -0230 NDT m=+7.221229891
+In the time:  2020-06-13 12:59:16.026118375 -0230 NDT m=+7.221469469
+Found 1 humans
+In the time:  2020-06-13 12:59:16.14111668 -0230 NDT m=+7.336467809
+Found 1 humans
+In the time:  2020-06-13 12:59:16.259295245 -0230 NDT m=+7.454646392
+Found 1 humans
+In the time:  2020-06-13 12:59:16.377549598 -0230 NDT m=+7.572900715
+Found 1 humans
+In the time:  2020-06-13 12:59:16.496326494 -0230 NDT m=+7.691677601
+Found 1 humans
+In the time:  2020-06-13 12:59:16.615930188 -0230 NDT m=+7.811281306
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:17.555144833 -0230 NDT m=+8.750495946
+Found 1 humans
+In the time:  2020-06-13 12:59:17.670357601 -0230 NDT m=+8.865708696
+Found 1 humans
+In the time:  2020-06-13 12:59:17.790030139 -0230 NDT m=+8.985381234
+Found 1 humans
+In the time:  2020-06-13 12:59:17.909147664 -0230 NDT m=+9.104498792
+Found 1 humans
+In the time:  2020-06-13 12:59:18.023850401 -0230 NDT m=+9.219201498
+Found 1 humans
+In the time:  2020-06-13 12:59:18.144453531 -0230 NDT m=+9.339804622
+Found 1 humans
+In the time:  2020-06-13 12:59:18.266606228 -0230 NDT m=+9.461957304
+Found 1 humans
+In the time:  2020-06-13 12:59:18.379281189 -0230 NDT m=+9.574632287
+Found 1 humans
+In the time:  2020-06-13 12:59:18.498619004 -0230 NDT m=+9.693970074
+Found 0 humans
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:18.849490212 -0230 NDT m=+10.044841319
+Found 1 humans
+In the time:  2020-06-13 12:59:18.964158875 -0230 NDT m=+10.159509963
+Found 1 humans
+In the time:  2020-06-13 12:59:19.080091528 -0230 NDT m=+10.275442617
+Found 1 humans
+In the time:  2020-06-13 12:59:19.193997928 -0230 NDT m=+10.389349018
+Found 0 humans
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:19.539505403 -0230 NDT m=+10.734856497
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:19.772109647 -0230 NDT m=+10.967460762
+Found 1 humans
+In the time:  2020-06-13 12:59:19.887506547 -0230 NDT m=+11.082857673
+Found 1 humans
+In the time:  2020-06-13 12:59:20.009970146 -0230 NDT m=+11.205321230
+Found 2 humans
+In the time:  2020-06-13 12:59:20.125800006 -0230 NDT m=+11.321151131
+In the time:  2020-06-13 12:59:20.125986189 -0230 NDT m=+11.321337260
+Found 1 humans
+In the time:  2020-06-13 12:59:20.243198937 -0230 NDT m=+11.438550041
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:20.479568413 -0230 NDT m=+11.674919523
+Found 1 humans
+In the time:  2020-06-13 12:59:20.59805472 -0230 NDT m=+11.793405831
+Found 1 humans
+In the time:  2020-06-13 12:59:20.715820622 -0230 NDT m=+11.911171761
+Found 1 humans
+In the time:  2020-06-13 12:59:20.829344103 -0230 NDT m=+12.024695204
+Found 1 humans
+In the time:  2020-06-13 12:59:20.946399079 -0230 NDT m=+12.141750163
+Found 0 humans
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:21.301509348 -0230 NDT m=+12.496860468
+Found 1 humans
+In the time:  2020-06-13 12:59:21.415489244 -0230 NDT m=+12.610840330
+Found 1 humans
+In the time:  2020-06-13 12:59:21.538761996 -0230 NDT m=+12.734113085
+Found 1 humans
+In the time:  2020-06-13 12:59:21.653308212 -0230 NDT m=+12.848659301
+Found 1 humans
+In the time:  2020-06-13 12:59:21.769920258 -0230 NDT m=+12.965271349
+Found 1 humans
+In the time:  2020-06-13 12:59:21.884908907 -0230 NDT m=+13.080260017
+Found 1 humans
+In the time:  2020-06-13 12:59:22.005623565 -0230 NDT m=+13.200974722
+Found 1 humans
+In the time:  2020-06-13 12:59:22.171072806 -0230 NDT m=+13.366423916
+Found 1 humans
+In the time:  2020-06-13 12:59:22.372528469 -0230 NDT m=+13.567879564
+Found 1 humans
+In the time:  2020-06-13 12:59:22.551894392 -0230 NDT m=+13.747245502
+Found 1 humans
+In the time:  2020-06-13 12:59:22.707600101 -0230 NDT m=+13.902951207
+Found 1 humans
+In the time:  2020-06-13 12:59:22.850181279 -0230 NDT m=+14.045532396
+Found 1 humans
+In the time:  2020-06-13 12:59:22.98295783 -0230 NDT m=+14.178308944
+Found 1 humans
+In the time:  2020-06-13 12:59:23.13151214 -0230 NDT m=+14.326863283
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:23.426211987 -0230 NDT m=+14.621563097
+Found 1 humans
+In the time:  2020-06-13 12:59:23.587266151 -0230 NDT m=+14.782617258
+Found 1 humans
+In the time:  2020-06-13 12:59:23.736034174 -0230 NDT m=+14.931385249
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:27.60830954 -0230 NDT m=+18.803660650
+Found 1 humans
+In the time:  2020-06-13 12:59:27.725991083 -0230 NDT m=+18.921342181
+Found 1 humans
+In the time:  2020-06-13 12:59:27.84034277 -0230 NDT m=+19.035693869
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:29.180573396 -0230 NDT m=+20.375924942
+Found 0 humans
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:29.547734341 -0230 NDT m=+20.743085452
+Found 1 humans
+In the time:  2020-06-13 12:59:29.668023222 -0230 NDT m=+20.863374308
+Found 1 humans
+In the time:  2020-06-13 12:59:29.791716055 -0230 NDT m=+20.987067165
+Found 1 humans
+In the time:  2020-06-13 12:59:29.91012088 -0230 NDT m=+21.105471956
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:30.148794564 -0230 NDT m=+21.344145656
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:31.117447707 -0230 NDT m=+22.312798795
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:31.715277305 -0230 NDT m=+22.910628415
+Found 1 humans
+In the time:  2020-06-13 12:59:31.835138131 -0230 NDT m=+23.030489238
+Found 1 humans
+In the time:  2020-06-13 12:59:31.952634962 -0230 NDT m=+23.147986088
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:32.191287816 -0230 NDT m=+23.386638904
+Found 1 humans
+In the time:  2020-06-13 12:59:32.314950281 -0230 NDT m=+23.510301371
+Found 1 humans
+In the time:  2020-06-13 12:59:32.436965035 -0230 NDT m=+23.632316126
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:34.053067657 -0230 NDT m=+25.248418765
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:34.299234415 -0230 NDT m=+25.494585555
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:35.515692607 -0230 NDT m=+26.711043700
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 1 humans
+In the time:  2020-06-13 12:59:36.96791303 -0230 NDT m=+28.163264573
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
+Found 0 humans
